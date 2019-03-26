@@ -1,0 +1,28 @@
+
+.head{
+	background-color:RGB(135, 206, 235);
+}
+.right{
+	text-align: right; padding: 14px;
+}
+.left{
+	text-align: left; padding: 14px;
+}
+input{
+	background-color:RGB(0, 0, 255); color:white; padding: 7px 12px;
+}
+.redButton{
+	background-color:RGB(255, 0, 0); color:white;
+}
+.standartButton{
+	background-color:RGB(255, 255, 255); color:blue;
+}
+p{
+	background-color:RGB(240, 230, 140); 
+}
+
+#block{
+	border:1px solid red; padding: 14px;
+}
+
+
