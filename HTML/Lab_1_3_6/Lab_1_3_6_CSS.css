@@ -1,0 +1,26 @@
+.Log{
+background-color: RGB(0, 255, 255);
+position:relative;
+}
+.Log1{
+background-color: RGB(255, 20, 147);
+display:inline;
+margin-top:40px;
+padding:15px;
+position:absolute;
+}
+.but1 {
+background-color: RGB(0, 191, 255);	
+color: white;
+padding:15px;
+margin:15px;
+}
+
+.but2 {
+background-color: RGB(255, 140, 0);	
+border:1px solid RGB(139, 0, 0);
+color: white;
+padding:15px;
+margin:15px;
+
+}
