@@ -1,0 +1,45 @@
+.container{
+	height:600px;
+}
+.div1{
+	height:100%;
+	width:25%;
+	float:left;
+	box-sizing:border-box;
+	background-image: linear-gradient(to right, red , yellow);
+	//transform: translate(200px, 0px);
+	//transform: rotate(20deg);
+	//transform: scale(5,10);
+	//transform: skewX(20deg);
+	//transform: skewY(20deg);
+	//transform: skew(20deg, 10deg);
+	//transform: matrix(1, -0.5, 0, 1, 0, 0);
+}
+.div2{
+	height:100%;
+	width:25%;
+	float:left;
+	box-sizing:border-box;
+	background-image: linear-gradient(to right, yellow , green);
+}
+.div3{
+	height:100%;
+	width:25%;
+	float:left;
+	box-sizing:border-box;
+	background-image: linear-gradient(to left, blue , green);
+}
+.div4{
+	height:100%;
+	width:25%;
+	float:left;
+	box-sizing:border-box;
+	background-image: linear-gradient(to right, blue , yellow);
+}
+.div5{
+	opacity: 0.3;
+}
+.div5:hover{
+	opacity: 1;
+	transition:opacity 0.5s linear;
+}

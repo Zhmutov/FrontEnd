@@ -1,0 +1,65 @@
+.head{
+	display:flex;
+	background-color:RGB(0, 191, 255);
+	height:50px;
+	align-items: center;
+	justify-content: space-between;
+}
+.headButt {
+	color:RGB(255, 99, 71);
+	height:25px;
+	text-align:center;
+	padding:5px;
+	margin:5px;
+}
+
+.Events{
+	display:flex;
+	background-color:RGB(240, 230, 140);
+	margin-top:20px;
+	justify-content: flex-end;
+}
+.Description{
+	width:80%;
+	text-align:left;
+	padding:10px;
+	text-align:justify;
+}
+.Date{
+	background-color:RGB(189, 183, 107);
+	width:200px;
+	text-align:left;
+	padding:10px;
+	margin:2px;	
+}
+
+.Jobs{
+	display:flex;
+	justify-content: flex-Start;
+}
+.Devel{
+	background-color:RGB(139, 0, 0);
+	color:RGB(255, 255, 255);
+	width:200px;
+	text-align:left;
+	padding:15px;
+	margin:7.5px;
+}
+.DescDev{
+	display:flex;
+	align-items: flex-end;
+	background-color:RGB(255, 99, 71);
+	color:RGB(255, 255, 255);
+	width:100%;
+	padding:15px;
+	margin:7.5px;
+}
+.Apply{
+	background-color:RGB(139, 0, 0);
+	color:RGB(255, 255, 255);
+	border:0px;
+	border-radius: 7px;
+	text-align:center;
+	padding:15px;
+	
+}
