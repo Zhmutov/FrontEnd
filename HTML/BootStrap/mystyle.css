@@ -1,0 +1,9 @@
+.bor {
+    outline: 1px solid orange;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
